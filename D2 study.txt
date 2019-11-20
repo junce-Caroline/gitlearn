@@ -5,3 +5,6 @@ M.D.: 1000
 O: 700
 --------------------
 total: 4000
+
+Next stage:
+Electronic piano: 3200
